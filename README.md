@@ -1,8 +1,12 @@
 # Python-Directory-Outline-Tree
 Outlines a given directory in a pretty-tree format using Python.
 
-A picture of it's usage and output.
+Picture of usage and output.
+
+---
 ![image](https://github.com/user-attachments/assets/14e9fecc-40f3-43cb-968e-8b3579f4adae)
+
+---
 
 # How to use
 1. Run the script
